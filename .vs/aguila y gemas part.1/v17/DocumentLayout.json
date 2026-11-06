@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\g\\aguila y gemas part.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33C31971-ED57-E04C-952C-C1056725F0D4}|Assembly-CSharp.csproj|c:\\users\\g\\aguila y gemas part.1\\assets\\animaciones\\camarasigueaguila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C31971-ED57-E04C-952C-C1056725F0D4}|Assembly-CSharp.csproj|solutionrelative:assets\\animaciones\\camarasigueaguila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\g\\aguila y gemas part.1\\Assets\\Scenes\\aguila2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\aguila2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C31971-ED57-E04C-952C-C1056725F0D4}|Assembly-CSharp.csproj|C:\\Users\\g\\aguila y gemas part.1\\assets\\scenes\\eaglecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C31971-ED57-E04C-952C-C1056725F0D4}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\eaglecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C31971-ED57-E04C-952C-C1056725F0D4}|Assembly-CSharp.csproj|C:\\Users\\g\\aguila y gemas part.1\\assets\\animaciones\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C31971-ED57-E04C-952C-C1056725F0D4}|Assembly-CSharp.csproj|solutionrelative:assets\\animaciones\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\g\\aguila y gemas part.1\\Assets\\animaciones\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\animaciones\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C31971-ED57-E04C-952C-C1056725F0D4}|Assembly-CSharp.csproj|C:\\Users\\g\\aguila y gemas part.1\\assets\\animaciones\\gemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C31971-ED57-E04C-952C-C1056725F0D4}|Assembly-CSharp.csproj|solutionrelative:assets\\animaciones\\gemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C31971-ED57-E04C-952C-C1056725F0D4}|Assembly-CSharp.csproj|C:\\Users\\g\\aguila y gemas part.1\\assets\\animaciones\\gemacontroller||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{33C31971-ED57-E04C-952C-C1056725F0D4}|Assembly-CSharp.csproj|solutionrelative:assets\\animaciones\\gemacontroller||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C31971-ED57-E04C-952C-C1056725F0D4}|Assembly-CSharp.csproj|C:\\Users\\g\\aguila y gemas part.1\\assets\\aguila||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{33C31971-ED57-E04C-952C-C1056725F0D4}|Assembly-CSharp.csproj|solutionrelative:assets\\aguila||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "aguila",
+              "DocumentMoniker": "C:\\Users\\g\\aguila y gemas part.1\\Assets\\aguila",
+              "RelativeDocumentMoniker": "Assets\\aguila",
+              "ToolTip": "C:\\Users\\g\\aguila y gemas part.1\\Assets\\aguila",
+              "RelativeToolTip": "Assets\\aguila",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-30T14:07:06.834Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "aguila2.cs",
+              "DocumentMoniker": "C:\\Users\\g\\aguila y gemas part.1\\Assets\\Scenes\\aguila2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\aguila2.cs",
+              "ToolTip": "C:\\Users\\g\\aguila y gemas part.1\\Assets\\Scenes\\aguila2.cs",
+              "RelativeToolTip": "Assets\\Scenes\\aguila2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:04:51.318Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CamaraSigueAguila.cs",
+              "DocumentMoniker": "C:\\Users\\g\\aguila y gemas part.1\\Assets\\animaciones\\CamaraSigueAguila.cs",
+              "RelativeDocumentMoniker": "Assets\\animaciones\\CamaraSigueAguila.cs",
+              "ToolTip": "C:\\Users\\g\\aguila y gemas part.1\\Assets\\animaciones\\CamaraSigueAguila.cs",
+              "RelativeToolTip": "Assets\\animaciones\\CamaraSigueAguila.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:23:56.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\g\\aguila y gemas part.1\\Assets\\animaciones\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\animaciones\\GameManager.cs",
+              "ToolTip": "C:\\Users\\g\\aguila y gemas part.1\\Assets\\animaciones\\GameManager.cs",
+              "RelativeToolTip": "Assets\\animaciones\\GameManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T14:19:58.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "game.cs",
+              "DocumentMoniker": "C:\\Users\\g\\aguila y gemas part.1\\Assets\\animaciones\\game.cs",
+              "RelativeDocumentMoniker": "Assets\\animaciones\\game.cs",
+              "ToolTip": "C:\\Users\\g\\aguila y gemas part.1\\Assets\\animaciones\\game.cs",
+              "RelativeToolTip": "Assets\\animaciones\\game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T14:19:15.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gemaController.cs",
+              "DocumentMoniker": "C:\\Users\\g\\aguila y gemas part.1\\Assets\\animaciones\\gemaController.cs",
+              "RelativeDocumentMoniker": "Assets\\animaciones\\gemaController.cs",
+              "ToolTip": "C:\\Users\\g\\aguila y gemas part.1\\Assets\\animaciones\\gemaController.cs",
+              "RelativeToolTip": "Assets\\animaciones\\gemaController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T13:55:34.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "gemaController",
+              "DocumentMoniker": "C:\\Users\\g\\aguila y gemas part.1\\Assets\\animaciones\\gemaController",
+              "RelativeDocumentMoniker": "Assets\\animaciones\\gemaController",
+              "ToolTip": "C:\\Users\\g\\aguila y gemas part.1\\Assets\\animaciones\\gemaController",
+              "RelativeToolTip": "Assets\\animaciones\\gemaController",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-03T13:43:35.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "eagleController.cs",
+              "DocumentMoniker": "C:\\Users\\g\\aguila y gemas part.1\\Assets\\Scenes\\eagleController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\eagleController.cs",
+              "ToolTip": "C:\\Users\\g\\aguila y gemas part.1\\Assets\\Scenes\\eagleController.cs",
+              "RelativeToolTip": "Assets\\Scenes\\eagleController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T14:59:25.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+using UnityEngine;
+
+public class AguilaController : MonoBehaviour
+{
+    // VARIABLES
+    [SerializeField] private float velocidad = 5f; // Decimal: Velocidad de movimiento del águila
+    private int puntaje = 0;                       // Entero: Marcador de puntos
+    private Rigidbody2D rb;                        // Referencia al componente físico Rigidbody2D
+    private Vector2 direccion;                     // Vector(x,y) para almacenar la dirección
+
+    // MÉTODOS DE UNITY
+    void Start()
+    {
+        // Se obtiene la referencia del componente Rigidbody2D al iniciar
+        rb = GetComponent<Rigidbody2D>();
+    }
+
+    void Update()
+    {
+        float x = 0f;
+        float y = 0f;
+
+        // Leer entradas del teclado W, A, S, D
+        if (Input.GetKey(KeyCode.W)) y = 1f;
+        if (Input.GetKey(KeyCode.S)) y = -1f;
+        if (Input.GetKey(KeyCode.A)) x = -1f;
+        if (Input.GetKey(KeyCode.D)) x = 1f;
+
+        // Vector normalizado para evitar que vaya más rápido en diagonal
+        direccion = new Vector2(x, y).normalized;
+    }
+
+    void FixedUpdate()
+    {
+        // Aplicar movimiento físico en el intervalo de física
+        // Nota: En Unity 6 se recomienda 'linearVelocity', en versiones anteriores usar 'velocity'
+        rb.linearVelocity = direccion * velocidad;
+    }
+
+    // Se ejecuta al colisionar con objetos configurados como Trigger
+    void OnTriggerEnter2D(Collider2D otro)
+    {
+        if (otro.CompareTag("Gema"))
+        {
+            Destroy(otro.gameObject); // La gema desaparece
+            CambiarPuntaje(10);       // Suma 10 puntos
+        }
+        else if (otro.CompareTag("Cereza"))
+        {
+            Destroy(otro.gameObject); // La cereza desaparece
+            CambiarPuntaje(-5);        // Resta 5 puntos
+        }
+    }
+
+    // MÉTODO PROPIO
+    // Modifica la variable del puntaje e imprime el valor en la consola
+    void CambiarPuntaje(int cantidad)
+    {
+        puntaje += cantidad;
+        Debug.Log("Puntaje actual: " + puntaje);
+    }
+}
